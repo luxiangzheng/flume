@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: Flume NG HBase Sink
+Implementation-Version: 1.7.0
+Built-By: lu
+Specification-Vendor: Apache Software Foundation
+Specification-Title: Flume NG HBase Sink
+Implementation-Vendor-Id: org.apache.flume.flume-ng-sinks
+Build-Jdk: 1.8.0_171
+Specification-Version: 1.7
+Implementation-URL: https://www.apache.org/flume-parent/flume-ng-sinks
+ /flume-ng-hbase-sink/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Apache Software Foundation
+
